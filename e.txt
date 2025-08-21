@@ -1,7 +1,10 @@
 new file in b1
 dsdvsfvs
 <<<<<<< HEAD
+<<<<<<< HEAD
 dsfsdgsfg
 mkdjsbkjabvj
+=======
+>>>>>>> 94ee3a3 (updated e.txtx)
 =======
 >>>>>>> 94ee3a3 (updated e.txtx)
